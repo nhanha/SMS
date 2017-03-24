@@ -1,0 +1,12 @@
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Sinch.SendSms.Example.exe.config
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Sinch.SendSms.Example.exe
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Sinch.SendSms.Example.pdb
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Castle.Core.dll
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Newtonsoft.Json.dll
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Sinch.ServerSdk.dll
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Sinch.WebApiClient.dll
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Castle.Core.xml
+E:\nuget-serversdk-tutorial-master\send-sms-project\bin\Debug\Newtonsoft.Json.xml
+E:\nuget-serversdk-tutorial-master\send-sms-project\obj\Debug\Sinch.SendSms.Example.csprojResolveAssemblyReference.cache
+E:\nuget-serversdk-tutorial-master\send-sms-project\obj\Debug\Sinch.SendSms.Example.exe
+E:\nuget-serversdk-tutorial-master\send-sms-project\obj\Debug\Sinch.SendSms.Example.pdb

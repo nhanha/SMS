@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Sinch.WebApiClient</id>
+    <version>1.0.2</version>
+    <title>Sinch WebApiClient</title>
+    <authors>Bruno Blank</authors>
+    <owners>Bruno Blank</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/sinch/nuget-webapiclient</projectUrl>
+    <iconUrl>https://www.sinch.com/wp-content/uploads/2015/09/NET-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper library to create a Rest client from interface.
+
+      For sample usage see https://github.com/sinch/nuget-webapiclient</description>
+    <summary>Helper library to create a Rest client from interface</summary>
+    <releaseNotes>Added license information</releaseNotes>
+    <copyright>Copyright © 2015 Sinch AB</copyright>
+    <language />
+    <tags>sinch webapi attributerouting rest dynamicproxy</tags>
+    <dependencies>
+      <dependency id="Castle.Core" version="3.3.3" />
+      <dependency id="Newtonsoft.Json" version="7.0.1" />
+    </dependencies>
+  </metadata>
+</package>
